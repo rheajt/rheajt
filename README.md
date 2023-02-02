@@ -14,3 +14,11 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
+<div id="streak" align="center">
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rheajt&theme=gruvbox)](https://git.io/streak-stats)  
+</div>
+
+<div id="projects" align="center">
+  
+</div>
