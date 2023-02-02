@@ -19,3 +19,10 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rheajt&theme=gruvbox)](https://git.io/streak-stats)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rheajt&count_private=true&theme=gruvbox&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://git.io/streak-stats">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=rheajt&theme=gruvbox" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rheajt&count_private=true&theme=gruvbox&show_icons=true&layout=compact" />
+</a>
