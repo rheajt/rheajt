@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @rheajt
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-rheajt/rheajt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div id="header" align="center">
+  <img src="https://jordanrhea.com/static/adbcda42ecabced8df18d5f9a71b6c4d/67b11/jordan-rhea-header.avif" width="100"/>
+</div>
