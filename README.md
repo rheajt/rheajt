@@ -1,10 +1,9 @@
 <div id="header" align="center">
   <img src="https://jordanrhea.com/static/adbcda42ecabced8df18d5f9a71b6c4d/67b11/jordan-rhea-header.avif" width="100"/>
+  <h3>I am an educational software developer building tools to make things easier</h3>
 </div>
 
-### I am an educational software developer building tools to make things easier.
-
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/rheajt/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
